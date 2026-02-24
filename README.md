@@ -1,4 +1,4 @@
-# Seeing Through the Background: Camouflaged Defect Detection with an Information-Guided Network
+# Seeing Through the Background-Camouflaged Defect Detection
 ![image](https://github.com/MVD-2096/LPENet/blob/main/Can%20you%20find.png)
 ![image](https://github.com/MVD-2096/LPENet/blob/main/definition.png)
 
